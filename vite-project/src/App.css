@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.page-container {
+  height: 100vh;              /* full screen height */
+  display: flex;
+  justify-content: center;    /* horizontal center */
+  align-items: center;        /* vertical center */
+}
+
+.counter-card {
+  width: 400px;               /* adjust if needed */
+}
